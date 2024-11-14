@@ -1,0 +1,192 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* pos_demo
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0-20241029\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-06 08:31+0000\n"
+"PO-Revision-Date: 2024-11-06 08:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: pos_demo
+#: model:product.template,name:pos_demo.product_apple_pie_product_template
+msgid "Apple Pie"
+msgstr "Ябълков пай"
+
+#. module: pos_demo
+#: model:pos.category,name:pos_demo.pos_category_beer
+msgid "Beer"
+msgstr "Бира"
+
+#. module: pos_demo
+#: model:pos.category,name:pos_demo.pos_category_breads
+msgid "Breads"
+msgstr "Хляб"
+
+#. module: pos_demo
+#: model:product.template,name:pos_demo.product_butter_croissant_product_template
+msgid "Butter Croissant"
+msgstr "Кроасан"
+
+#. module: pos_demo
+#. odoo-python
+#: code:addons/pos_demo/models/pos_demo_config.py:0
+msgid "Card"
+msgstr "Карта"
+
+#. module: pos_demo
+#. odoo-python
+#: code:addons/pos_demo/models/pos_demo_config.py:0
+msgid "Cash"
+msgstr "В брой"
+
+#. module: pos_demo
+#: model:pos.category,name:pos_demo.pos_category_cheese
+#: model:product.template,name:pos_demo.product_cheese_product_template
+msgid "Cheese"
+msgstr "Сирена"
+
+#. module: pos_demo
+#: model:ir.model.fields,field_description:pos_demo.field_pos_demo_config__create_uid
+msgid "Created by"
+msgstr "Създаден от"
+
+#. module: pos_demo
+#: model:ir.model.fields,field_description:pos_demo.field_pos_demo_config__create_date
+msgid "Created on"
+msgstr "Създаден на"
+
+#. module: pos_demo
+#. odoo-python
+#: code:addons/pos_demo/models/pos_demo_config.py:0
+msgid "Customer Account"
+msgstr "Клиентска сметка"
+
+#. module: pos_demo
+#: model:ir.model.fields,field_description:pos_demo.field_pos_demo_config__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: pos_demo
+#: model:product.template,description_sale:pos_demo.product_draft_beer_product_template
+msgid "Draft beer"
+msgstr "Наливна бира"
+
+#. module: pos_demo
+#. odoo-python
+#: code:addons/pos_demo/models/pos_demo_config.py:0
+msgid ""
+"Ensure that there is an existing bank journal. Check if chart of accounts is"
+" installed in your company."
+msgstr "Осигурете съществуващ банков журнал за счетоводство"
+
+#. module: pos_demo
+#: model:product.template,description_sale:pos_demo.product_butter_croissant_product_template
+msgid "Flaky all butter pastry, layered for a light and golden croissant."
+msgstr "Хрупкава закуска от маслено тесто"
+
+#. module: pos_demo
+#. odoo-python
+#: code:addons/pos_demo/models/pos_demo_config.py:0
+msgid "Food Shop"
+msgstr "Хранителен магазин"
+
+#. module: pos_demo
+#: model:ir.model,name:pos_demo.model_pos_demo_config
+msgid "Foodshop Demo Configuration"
+msgstr "Конфигурация на магазина"
+
+#. module: pos_demo
+#: model:product.template,name:pos_demo.product_draft_beer_product_template
+msgid "Glass of beer"
+msgstr "Чаша бира"
+
+#. module: pos_demo
+#: model:product.template,name:pos_demo.product_ham_product_template
+msgid "Ham"
+msgstr "Шунка"
+
+#. module: pos_demo
+#: model:product.template,description_sale:pos_demo.product_wholemeal_loaf_product_template
+msgid ""
+"High fibre loaf. Baked with fine wholemeal flour to give a soft texture."
+msgstr "Хляб богат на фибри, омесен от пълнозърнесто брашно"
+
+#. module: pos_demo
+#: model:ir.model.fields,field_description:pos_demo.field_pos_demo_config__id
+msgid "ID"
+msgstr "Идентификатор"
+
+#. module: pos_demo
+#: model:product.template,description_sale:pos_demo.product_ham_product_template
+msgid "Jamon"
+msgstr "Сурова шунка"
+
+#. module: pos_demo
+#: model:ir.model.fields,field_description:pos_demo.field_pos_demo_config__write_uid
+msgid "Last Updated by"
+msgstr "Последна промяна от"
+
+#. module: pos_demo
+#: model:ir.model.fields,field_description:pos_demo.field_pos_demo_config__write_date
+msgid "Last Updated on"
+msgstr "Последна промяна на"
+
+#. module: pos_demo
+#: model:pos.category,name:pos_demo.pos_category_meat
+msgid "Meat"
+msgstr "Месни"
+
+#. module: pos_demo
+#: model:pos.category,name:pos_demo.pos_category_pastries
+msgid "Pastries"
+msgstr "Сладкиши"
+
+#. module: pos_demo
+#: model:product.template,description_sale:pos_demo.product_cheese_product_template
+msgid "Pecorino"
+msgstr "Твърдо овче сирене"
+
+#. module: pos_demo
+#: model:product.template,name:pos_demo.product_mavrud_product_template
+msgid "Red wine Mavrud"
+msgstr "Червено вино Мавруд"
+
+#. module: pos_demo
+#: model:product.template,description_sale:pos_demo.product_mavrud_product_template
+msgid "Red wine mavrud"
+msgstr ""
+
+#. module: pos_demo
+#: model:product.template,description_sale:pos_demo.product_apple_pie_product_template
+msgid "Shortcrust pastry with a Bramley apple filling."
+msgstr "Сладкиш с ябълков пълнеж"
+
+#. module: pos_demo
+#: model:product.template,description_sale:pos_demo.product_tiger_white_loaf_product_template
+msgid ""
+"Baked for a soft inside, with its distinctive savoury "
+"crackled crust."
+msgstr ""
+
+#. module: pos_demo
+#: model:product.template,name:pos_demo.product_tiger_white_loaf_product_template
+msgid "White loaf"
+msgstr "Бяла франзела"
+
+#. module: pos_demo
+#: model:product.template,name:pos_demo.product_wholemeal_loaf_product_template
+msgid "Wholemeal loaf"
+msgstr "Пълнозърнеста питка"
+
+#. module: pos_demo
+#: model:pos.category,name:pos_demo.pos_category_wine
+msgid "Wine"
+msgstr "Вино"
